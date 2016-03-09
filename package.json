@@ -1,0 +1,11 @@
+{
+    "name": "yo-travis",
+    "version": "0.0.1",
+    "description": "a sample setup for Travis CI",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "author": "Guozheng Ge",
+    "license": "MIT"
+}
